@@ -3,10 +3,10 @@ switch(new Date().getDay()) {
         console.log("Nedjelja\nNeradni dan");
         break;
     case 1:
-        console.log("Monday\Radni dan\nNa najviše volim JS od svih programskih jezika");
+        console.log("Ponedjeljak\nRadni dan\nNa najviše volim JS od svih programskih jezika");
         break;
     case 2:
-        console.log("Utorak\Radni dan");
+        console.log("Utorak\nRadni dan");
         break;
     case 3:
         console.log("Srijeda\nRadni dan");
